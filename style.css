@@ -1,0 +1,20 @@
+body{
+	background-color: #2d4425;
+	background-image: linear-gradient(44deg, #2d4425 11%, #537a4d 36%, #7dcc4f 54%, #537a4d 71%, #2d4425 87%);
+	color:#FFFF34;
+	font-family: Times new Roman;
+}
+.container{
+	background-color: #9f39e7;
+	background-image: linear-gradient(148deg, #9f39e7 2%, #6d28bd 34%, #7f20c4 70%, #c218ff 100%);
+	padding: 30px;
+	border-radius: 20px;
+}
+.row{
+	background-color: #D26BFF;
+	border-radius: 20px;
+	padding: 15px;
+}
+h2{
+	font-family: Times new Roman;
+}
